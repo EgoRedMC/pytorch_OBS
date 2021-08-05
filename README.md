@@ -1,6 +1,6 @@
 # pytorch_OBS
 
-Realization of neural network pruning aglorithms Optimal Brain Surgeon (OBS) abd Layer-wise Optimal Brain Surgeon (L-OBS).
+Realization of neural network pruning aglorithms Optimal Brain Surgeon (OBS) and Layer-wise Optimal Brain Surgeon (L-OBS).
 
 Links on papers:
 
